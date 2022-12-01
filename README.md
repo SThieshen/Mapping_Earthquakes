@@ -10,4 +10,17 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 For the map to be interactive, an API key had to be obtained by visiting mapbox.com, creating a Mapbox account, then retrieving the access token which is used within the code to deploy the webpage. Click the link below to deploy to the interactive webpage:
 
 
-https://sthieshen.github.io./
+
+https://SThieshen.github.io./
+
+
+The images below are examples of the webpage:
+
+Streets
+![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/street_view.png)
+
+Satellite
+![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/satellite_view.png)
+
+Dark
+![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/dark_view.png)
