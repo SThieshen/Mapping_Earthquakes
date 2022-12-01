@@ -16,4 +16,14 @@ https://SThieshen.github.io.
 
 The images below are examples of the webpage:
 
+Streets
+
 ![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/street_view.png)
+
+Satellite
+
+![alt text](
+
+Dark
+
+![alt text](
