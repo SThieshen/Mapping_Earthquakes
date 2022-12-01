@@ -22,7 +22,7 @@ Streets
 
 Satellite
 
-![alt text](
+![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/satellite_view.png)
 
 Dark
 
