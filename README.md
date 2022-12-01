@@ -11,7 +11,7 @@ For the map to be interactive, an API key had to be obtained by visiting mapbox.
 
 
 
-https://SThieshen.github.io.
+https://SThieshen.github.io./
 
 
 The images below are examples of the webpage:
