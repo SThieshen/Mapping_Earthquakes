@@ -17,13 +17,10 @@ https://SThieshen.github.io.
 The images below are examples of the webpage:
 
 Streets
-
 ![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/street_view.png)
 
 Satellite
-
 ![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/satellite_view.png)
 
 Dark
-
-![alt text](
+![alt text](https://github.com/SThieshen/Mapping_Earthquakes/blob/main/Development/dark_view.png)
